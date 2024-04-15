@@ -46,7 +46,7 @@ The following table shows the metrics we measured in our insecure environment fo
 
 Start Time 2024-04-14 16:30
 
-Stop Time	2024-04-14 16:30
+Stop Time	2024-04-15 16:30
 
 | Metric                   | Count
 | ------------------------ | -----
@@ -66,15 +66,15 @@ The following table shows the metrics we measured in our environment for another
 
 Start Time 2024-04-15 16:30
 
-Stop Time	2024-04-15 16:30
+Stop Time	2024-04-16 16:30
 
 | Metric                   | Count
 | ------------------------ | -----
-| SecurityEvent            | 24788
-| Syslog                   | 14082
-| SecurityAlert            | 5
-| SecurityIncident         | 292
-| AzureNetworkAnalytics_CL | 1483
+| SecurityEvent            | 76
+| Syslog                   | 66
+| SecurityAlert            | 0
+| SecurityIncident         | 0
+| AzureNetworkAnalytics_CL | 0
 
 ## Conclusion
 
